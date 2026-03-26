@@ -1,0 +1,14 @@
+{
+  "name": "Programmingclub67",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.LiveServer"
+      ]
+    }
+  },
+  "postCreateCommand": "npm install"
+}
