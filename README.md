@@ -9,28 +9,15 @@ v1.0 of something bigger
 
 ---
 
-## 🌐 What We're Building This Semester
+##  What We're Building This Semester
 
 This semester we're diving deep into **web development** — from the ground up. By the end, every member will have built real projects they can show off.
 
 Here's what we'll be covering(for now):
 
-- 🏗️ **HTML** — Structure of the web
-- 🎨 **CSS** — Making things look good
-- ⚡ **JavaScript** — Making things come alive
-
-
----
-
-## Repo Structure
-ProgrammingClub67/
-│
-├── .devcontainer/          # For codespaces
-├── challenges/         # Weekly coding challenges + submissions
-├── projects/
-│   ├── club-project/   # Our big group project
-│   └── individual/     # Your personal projects
-└── SYNTAX AND GENERAL KNOWLEDGE/          # Syntax from the various languages, links, general programming knowledge
+-  **HTML** — Structure of the web
+-  **CSS** — Making things look good
+-  **JavaScript** — Making things come alive
 
 ## Getting Started
 
