@@ -2,12 +2,12 @@
 v1.0 of something bigger
 
 
-# 🚀 ProgrammingClub67 — Web Development Semester
+#  ProgrammingClub67 — Web Development Semester
 
 > **We build. We learn. We ship.**  
 > Welcome to the official repo for ProgrammingClub67's Web Development semester. Whether you're writing your first line of HTML or already know your way around JavaScript — you belong here.
 
----
+
 
 ##  What We're Building This Semester
 
@@ -40,7 +40,7 @@ Recommended extensions:
 ### 4. You're in
 Open the project folder in VS Code and start exploring.
 
-## 🏆 Weekly Challenges
+## Weekly Challenges
 
 Every week we drop a new challenge to sharpen your skills. Here's how to submit:
 
@@ -55,11 +55,11 @@ git add .
 git commit -m "Week 01 challenge - YourName"
 git push origin challenge-week-01-yourname
 
-# 4. Open a Pull Request on GitHub — done! ✅
+# 4. Open a Pull Request on GitHub — done
 
 We review submissions together at the next meeting. No judgement, just learning.
 
-## 👥 Contributing to the Club Project
+## Contributing to the Club Project
 
 The club project is built together. Pick up an issue, work on a branch, and open a PR:
 
@@ -74,7 +74,7 @@ git push origin feature/your-feature-name
 Then open a Pull Request and tag a club lead for review.
 
 
-📚 Resources
+Resources
 
 Check the SYNTAX AND GENERAL KNOWLEDGE folder for:
 - Curated tutorials and docs
@@ -88,21 +88,21 @@ Some favorites to bookmark right now:
 
 ---
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
   **Be kind.** Everyone is at a different level — lift each other up.
   **Ask questions.** There are no dumb questions in this club.
   **Commit often.** Small commits beat one giant messy one.
   **Have fun.** Seriously. This is supposed to be fun.
 
-## 👾 Members
+## Members
 
 | Name | GitHub | Role |
 |------|--------|------|
 *(Add yourself!)* 
 
 
-## 📬 Questions?
+## Questions?
 
 Open an [Issue](../../issues) and tag it with the `question` label — or just bring it up at the next meeting
 
