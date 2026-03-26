@@ -1,5 +1,7 @@
-# HTML Syntax Reference 
+# HTML Syntax Reference 🏗️
 > A comprehensive guide to HTML for ProgrammingClub67
+
+---
 
 ## Table of Contents
 1. [Basic Structure](#1-basic-structure)
@@ -23,11 +25,13 @@
 19. [Scripting](#19-scripting)
 20. [Deprecated Tags (Avoid These)](#20-deprecated-tags-avoid-these)
 
+---
+
 ## 1. Basic Structure
 
 Every HTML file starts with this boilerplate:
 
-html
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -39,6 +43,7 @@ html
     <!-- Your content goes here -->
   </body>
 </html>
+```
 
 | Tag | Purpose |
 |-----|---------|
@@ -47,22 +52,22 @@ html
 | `<head>` | Metadata, styles, scripts — not visible |
 | `<body>` | Everything the user sees |
 
-
+---
 
 ## 2. Headings
 
 There are 6 levels of headings. Only use one `<h1>` per page.
 
-html
+```html
 <h1>Heading 1 — Page Title</h1>
 <h2>Heading 2 — Section Title</h2>
 <h3>Heading 3 — Sub-section</h3>
 <h4>Heading 4</h4>
 <h5>Heading 5</h5>
 <h6>Heading 6 — Smallest</h6>
+```
 
-
-
+---
 
 ## 3. Text & Paragraphs
 
@@ -937,4 +942,3 @@ These tags still technically work in browsers but should **never** be used. Use 
 ---
 
 *ProgrammingClub67 — Web Development Semester 2026* 🚀
-
