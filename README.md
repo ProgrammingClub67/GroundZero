@@ -5,13 +5,13 @@ v1.0 of something bigger
 #  ProgrammingClub67 — Web Development Semester
 
 > **We build. We learn. We ship.**  
-> Welcome to the official repo for ProgrammingClub67's Web Development semester. Whether you're writing your first line of HTML or already know your way around JavaScript — you belong here.
+> Welcome to the official repo for ProgrammingClub67's Web Development semester. Whether you're writing your first line of HTML or already know your way around JavaScript, you belong here.
 
 
 
 ##  What We're Building This Semester
 
-This semester we're diving deep into **web development** — from the ground up. By the end, every member will have built real projects they can show off.
+This semester we're diving deep into **web development** from the ground up. By the end, every member will have built real projects they can show off.
 
 Here's what we'll be covering(for now):
 
@@ -30,7 +30,7 @@ git clone https://github.com/ProgrammingClub67/webcraft.git
 cd programminClub67 
 
 ### 3. Install VS Code
-Download [VS Code](https://code.visualstudio.com/) — it's free and the best editor for web dev.
+Download [VS Code](https://code.visualstudio.com/) it's free and the best editor for web dev.
 
 Recommended extensions:
 - **Live Server** — see your HTML in real time
