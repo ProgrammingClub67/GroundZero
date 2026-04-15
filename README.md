@@ -1,4 +1,4 @@
-# GroundZero
+GroundZero
 v1.0 of something bigger
 
 
@@ -97,8 +97,26 @@ Some favorites to bookmark right now:
 
 ## Members
 
-| Name | GitHub | Role |
-|------|--------|------|
+| Name         |GitHub                      |
+|:-----------: |:--------------------------:| 
+|Ayoyimika     | internetcode999            |
+|Ayomikun      |                            |
+|Tawana        |                            |
+|David         |                            |
+|Moyo          |                            |
+|Cyber         |                            |
+|Elton         |                            |
+|Joseph        |                            |
+|Esther        |                            |
+|Ayisha        |                            |
+|Yayra         |                            |
+|Germaine      |                            |
+|Justice       |                            | 
+|Prah          |                            |
+|Daniella      |                            | 
+|Miracle       |                            |
+
+v
 *(Add yourself!)* 
 
 
