@@ -40,20 +40,22 @@ Recommended extensions:
 ### 4. You're in
 Open the project folder in VS Code and start exploring.
 
-## Weekly Challenges
+## Weekly Projects
 
-Every week we drop a new challenge to sharpen your skills. Here's how to submit:
+Every week we drop a new project to sharpen your skills. Here's how to submit:
 
 bash
 # 1. Create your own branch
-git checkout -b challenge-week-01-yourname
+git checkout -b yourname(you don't need to create another one after week one)
 
-# 2. Add your solution inside challenges/week-01/submissions/yourname/
+# 2.  Create a file with your name
+
+# 2. Add your solution inside Projects/yourname/
 
 # 3. Commit and push
 git add .
-git commit -m "Week 01 challenge - YourName"
-git push origin challenge-week-01-yourname
+git commit -m "Week 01 Project - YourName"
+git push origin yourname
 
 # 4. Open a Pull Request on GitHub — done
 
